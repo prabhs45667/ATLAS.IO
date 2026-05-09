@@ -18,6 +18,7 @@ const hanken = Hanken_Grotesk({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://atlas-io.vercel.app'),
   title: 'Atlas.io — GeoGuessr but for Different Time Periods',
   description:
     'Atlas.io is a free GeoGuessr-style history game. Explore 360° panoramas of iconic moments in history, guess the location and time period, and compete with friends in multiplayer. Like GeoGuessr but for different eras — from Ancient Rome to the modern day.',
@@ -40,6 +41,7 @@ export const metadata: Metadata = {
       'Explore 360° panoramas of iconic moments in history. Guess the location and time period. Play solo, lightning, or multiplayer.',
     type: 'website',
     siteName: 'Atlas.io',
+    url: 'https://atlas-io.vercel.app',
     images: [{ url: '/og.png', width: 1200, height: 630, alt: 'Atlas.io — GeoGuessr but for different time periods' }],
   },
   twitter: {
