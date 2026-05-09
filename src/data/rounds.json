@@ -1,0 +1,642 @@
+[
+  {
+    "id": "01",
+    "panorama": "/panoramas/01.png",
+    "lat": 41.8931,
+    "lng": 12.4828,
+    "year": 117,
+    "city": "Rome",
+    "country": "Roman Empire",
+    "description": "A bustling market street in Imperial Rome during the reign of Emperor Trajan, near Trajan's Market",
+    "clues": [
+      "Garments and dressing style are clear indicators of the early Roman Empire",
+      "Roman architecture and market stalls visible in the scene"
+    ]
+  },
+  {
+    "id": "02",
+    "panorama": "/panoramas/02.png",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "year": 1850,
+    "city": "Edo (Tokyo)",
+    "country": "Japan",
+    "description": "A merchant district in late Edo period Japan, during the final years of the Tokugawa shogunate",
+    "clues": [
+      "Traditional Edo-period garments and dressing style place this in feudal Japan",
+      "Architecture and signage consistent with late Tokugawa-era merchant districts"
+    ]
+  },
+  {
+    "id": "03",
+    "panorama": "/panoramas/03.png",
+    "lat": 50.68,
+    "lng": 4.41,
+    "year": 1815,
+    "city": "Waterloo",
+    "country": "Belgium",
+    "description": "The battlefield of Waterloo during Napoleon's final defeat by the Duke of Wellington and Prussian forces",
+    "clues": [
+      "Napoleonic military uniforms are visible on the battlefield",
+      "European landscape and early 19th-century weaponry narrow the era"
+    ]
+  },
+  {
+    "id": "04",
+    "panorama": "/panoramas/04.png",
+    "lat": 38.8899,
+    "lng": -77.0091,
+    "year": 2009,
+    "city": "Washington D.C.",
+    "country": "United States",
+    "description": "The inauguration of Barack Obama as the 44th President of the United States at the U.S. Capitol",
+    "clues": [
+      "Barack Obama is visible — this is his presidential inauguration",
+      "The U.S. Capitol building is the backdrop, placing this in Washington D.C."
+    ]
+  },
+  {
+    "id": "05",
+    "panorama": "/panoramas/05.png",
+    "lat": 25.3105,
+    "lng": 51.4344,
+    "year": 2022,
+    "city": "Lusail",
+    "country": "Qatar",
+    "description": "The FIFA World Cup Final at Lusail Stadium where Argentina defeated France in a historic match",
+    "clues": [
+      "Supporters are wearing Argentina's 2022 football kit",
+      "The stadium and World Cup branding point to the 2022 FIFA World Cup in Qatar"
+    ]
+  },
+  {
+    "id": "06",
+    "panorama": "/panoramas/06.png",
+    "lat": 41.7325,
+    "lng": -49.9469,
+    "year": 1912,
+    "city": "North Atlantic Ocean",
+    "country": "International Waters",
+    "description": "The RMS Titanic's final resting coordinates — 370 miles south of Newfoundland, where the ship struck an iceberg and sank on April 15, 1912.",
+    "clues": [
+      "You're on the Titanic — the most famous sinking in history",
+      "The early 20th-century ship interior and open ocean setting are key giveaways"
+    ]
+  },
+  {
+    "id": "07",
+    "panorama": "/panoramas/07.png",
+    "lat": 37.7839,
+    "lng": -122.4041,
+    "year": 2007,
+    "city": "San Francisco",
+    "country": "United States",
+    "description": "Steve Jobs announcing the first-generation iPhone during the Macworld Conference & Expo keynote on January 9, 2007, inside Moscone West.",
+    "clues": [
+      "Steve Jobs is wearing his recognisable black mock turtleneck, blue jeans, and sneakers",
+      "The large screen says \"iPhone\" and shows the original 2007 iPhone interface",
+      "The event is inside Moscone West, where the first iPhone was introduced at Macworld 2007",
+      "Audience members use 2007-era tech: compact digital cameras, BlackBerrys/flip phones, laptops, and conference badges"
+    ]
+  },
+  {
+    "id": "08",
+    "panorama": "/panoramas/08.png",
+    "lat": 40.7127,
+    "lng": -74.0119,
+    "year": 2001,
+    "city": "New York City",
+    "country": "United States",
+    "description": "World Trade Center area in Lower Manhattan, shortly before the September 11 attacks, near the intersection of West Street and Vesey Street.",
+    "clues": [
+      "The Twin Towers are still standing, which immediately places the scene before 9/11",
+      "The Marriott World Trade Center hotel is visible — a building that no longer exists after the attacks",
+      "The Sphere sculpture appears in the plaza area, a distinctive landmark of the original World Trade Center complex"
+    ]
+  },
+  {
+    "id": "09",
+    "panorama": "/panoramas/09.png",
+    "lat": 52.5163,
+    "lng": 13.3777,
+    "year": 1989,
+    "city": "Berlin",
+    "country": "Germany",
+    "description": "A street-level view near the Berlin Wall and Brandenburg Gate during the opening of the border in November 1989.",
+    "clues": [
+      "The Berlin Wall and Cold War border infrastructure place the scene in divided Berlin",
+      "Trabant and Wartburg cars point to late East Germany",
+      "Crowds gathering at the Wall suggest the border opening in November 1989"
+    ]
+  },
+  {
+    "id": "10",
+    "panorama": "/panoramas/10.png",
+    "lat": 28.6083,
+    "lng": -80.6041,
+    "year": 1969,
+    "city": "Kennedy Space Center",
+    "country": "United States",
+    "description": "Apollo 11 launch preparations at Launch Complex 39A, with the Saturn V and ground support activity visible from a practical work area.",
+    "clues": [
+      "The Saturn V rocket and Launch Complex 39A identify the Apollo program",
+      "1960s NASA vehicles, buses, and technician clothing narrow the era",
+      "Apollo 11 launch preparations place the scene in July 1969"
+    ]
+  },
+  {
+    "id": "11",
+    "panorama": "/panoramas/11.png",
+    "lat": 28.6129,
+    "lng": 77.2295,
+    "year": 1947,
+    "city": "New Delhi",
+    "country": "India",
+    "description": "New Delhi during Indian independence, viewed from an everyday street near the ceremonial avenues and government district.",
+    "clues": [
+      "Indian tricolor flags and independence crowds place the scene around August 1947",
+      "Late British Raj government architecture points to New Delhi",
+      "Cycle rickshaws, 1940s cars, and khadi clothing help narrow the period"
+    ]
+  },
+  {
+    "id": "12",
+    "panorama": "/panoramas/12.png",
+    "lat": 31.2653,
+    "lng": 32.3019,
+    "year": 1869,
+    "city": "Port Said",
+    "country": "Egypt",
+    "description": "The working waterfront of Port Said during the opening period of the Suez Canal, with steamships, canal traffic, and port labor.",
+    "clues": [
+      "The canal entrance and Port Said harbor identify the Suez Canal",
+      "Steamships, sailing vessels, and coal carts fit the late 1860s",
+      "The mix of Ottoman, Egyptian, and European clothing reflects the canal opening period"
+    ]
+  },
+  {
+    "id": "13",
+    "panorama": "/panoramas/13.png",
+    "lat": 51.5033,
+    "lng": -0.1709,
+    "year": 1851,
+    "city": "London",
+    "country": "United Kingdom",
+    "description": "A pedestrian view outside the Crystal Palace in Hyde Park during the Great Exhibition of 1851.",
+    "clues": [
+      "The Crystal Palace glass-and-iron structure points to the Great Exhibition",
+      "Early Victorian clothing, top hats, bonnets, and horse-drawn carriages place the era",
+      "Hyde Park exhibition posters and crowds narrow the scene to 1851 London"
+    ]
+  },
+  {
+    "id": "14",
+    "panorama": "/panoramas/14.png",
+    "lat": 37.9683,
+    "lng": 23.7411,
+    "year": 1896,
+    "city": "Athens",
+    "country": "Greece",
+    "description": "A pedestrian approach near the Panathenaic Stadium during the first modern Olympic Games in 1896.",
+    "clues": [
+      "The marble Panathenaic Stadium identifies the first modern Olympic Games",
+      "Greek flags and international spectators point to Athens in 1896",
+      "Horse-drawn carriages and late-19th-century clothing narrow the era"
+    ]
+  },
+  {
+    "id": "15",
+    "panorama": "/panoramas/15.png",
+    "lat": 49.999,
+    "lng": 8.271,
+    "year": 1455,
+    "city": "Mainz",
+    "country": "Holy Roman Empire",
+    "description": "A Gutenberg-era printing workshop and nearby lane in Mainz during the spread of movable-type printing.",
+    "clues": [
+      "Movable type trays, ink balls, and a wooden screw press point to Gutenberg's workshop",
+      "The late medieval German street setting places the scene in Mainz",
+      "Printed sheets and clerics suggest the mid-15th-century printing revolution"
+    ]
+  },
+  {
+    "id": "16",
+    "panorama": "/panoramas/16.png",
+    "lat": 39.9489,
+    "lng": -75.15,
+    "year": 1776,
+    "city": "Philadelphia",
+    "country": "United States",
+    "description": "An ordinary street corner near Independence Hall during the American Declaration period in 1776.",
+    "clues": [
+      "Independence Hall and colonial brick buildings identify Philadelphia",
+      "Continental soldiers, broadsides, and printers point to the American Revolution",
+      "Tricorn hats, wagons, and cobblestone streets fit 1776"
+    ]
+  },
+  {
+    "id": "17",
+    "panorama": "/panoramas/17.png",
+    "lat": 48.8049,
+    "lng": 2.1232,
+    "year": 1789,
+    "city": "Versailles",
+    "country": "France",
+    "description": "A courtyard and street view near the Menus-Plaisirs hall during the opening of the Estates-General in 1789.",
+    "clues": [
+      "Deputies from the clergy, nobility, and Third Estate identify the Estates-General",
+      "Pamphlets, carriages, and early tricolor cockades point to revolutionary France",
+      "The Versailles setting places the scene in spring 1789"
+    ]
+  },
+  {
+    "id": "18",
+    "panorama": "/panoramas/18.png",
+    "lat": 41.0162,
+    "lng": 28.9638,
+    "year": 1566,
+    "city": "Constantinople",
+    "country": "Ottoman Empire",
+    "description": "A market lane near the Suleymaniye Mosque during the reign of Suleiman the Magnificent.",
+    "clues": [
+      "The Suleymaniye Mosque places the scene in Ottoman Constantinople after the 1550s",
+      "Janissaries, porters, textiles, and copperware point to a 16th-century Ottoman market",
+      "Coffeehouse and bazaar details suggest the late reign of Suleiman the Magnificent"
+    ]
+  },
+  {
+    "id": "19",
+    "panorama": "/panoramas/19.png",
+    "lat": 39.9087,
+    "lng": 116.3975,
+    "year": 1919,
+    "city": "Beijing",
+    "country": "China",
+    "description": "A street-side view near Tiananmen during the May Fourth Movement in Republican-era Beijing.",
+    "clues": [
+      "Tiananmen and student demonstrators place the scene in Beijing",
+      "Banners, handbills, and civic crowds point to the May Fourth Movement",
+      "Rickshaws, early Republican clothing, and courtyard walls narrow the year to 1919"
+    ]
+  },
+  {
+    "id": "20",
+    "panorama": "/panoramas/20.png",
+    "lat": 19.4512,
+    "lng": -99.1364,
+    "year": 1519,
+    "city": "Mexico-Tenochtitlan",
+    "country": "Aztec Empire",
+    "description": "A crowded aisle in the Tlatelolco market of Mexico-Tenochtitlan shortly after Spanish arrival in 1519.",
+    "clues": [
+      "Canals, causeways, and lake-city architecture identify Tenochtitlan",
+      "Cacao, obsidian tools, featherwork, and market stalls point to Tlatelolco",
+      "Distant Spanish visitors subtly place the scene around 1519"
+    ]
+  },
+  {
+    "id": "21",
+    "panorama": "/panoramas/21.png",
+    "lat": 48.2064,
+    "lng": 16.3634,
+    "year": 1814,
+    "city": "Vienna",
+    "country": "Austrian Empire",
+    "description": "A carriage queue and street scene near the Hofburg during the Congress of Vienna.",
+    "clues": [
+      "The Hofburg and diplomatic carriages identify Vienna's imperial center",
+      "Aristocrats, soldiers, servants, and salon posters point to the Congress of Vienna",
+      "Early-19th-century clothing and post-Napoleonic diplomatic activity narrow the year to 1814"
+    ]
+  },
+  {
+    "id": "22",
+    "panorama": "/panoramas/22.png",
+    "lat": -33.9253,
+    "lng": 18.4239,
+    "year": 1652,
+    "city": "Cape Town",
+    "country": "Dutch Cape Colony",
+    "description": "The first Dutch settlement work area near Table Bay, with Table Mountain and early fort earthworks visible.",
+    "clues": [
+      "Table Mountain and Table Bay identify the Cape settlement",
+      "Dutch East India Company sailors and early earthworks point to 1652",
+      "Khoikhoi traders, ox wagons, and garden plots show the early colonial supply station"
+    ]
+  },
+  {
+    "id": "23",
+    "panorama": "/panoramas/23.png",
+    "lat": 53.4753,
+    "lng": -2.2535,
+    "year": 1830,
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "description": "A station-yard view near Liverpool Road station during the opening period of the Liverpool and Manchester Railway.",
+    "clues": [
+      "An early steam locomotive and Liverpool Road station identify the railway opening",
+      "Industrial brick warehouses and coal smoke place the scene in Manchester",
+      "1830 clothing, horse carts, and railway officials mark the beginning of the railway age"
+    ]
+  },
+  {
+    "id": "24",
+    "panorama": "/panoramas/24.png",
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "year": 1504,
+    "city": "Florence",
+    "country": "Republic of Florence",
+    "description": "A side-street view near Piazza della Signoria during the public display of Michelangelo's David in 1504.",
+    "clues": [
+      "Palazzo Vecchio and the public display of David point to Florence",
+      "Renaissance clothing, artists, and guild trades place the scene in the early 1500s",
+      "The civic square setting narrows the event to Michelangelo's David in 1504"
+    ]
+  },
+  {
+    "id": "25",
+    "panorama": "/panoramas/25.png",
+    "lat": 33.3152,
+    "lng": 44.3661,
+    "year": 830,
+    "city": "Baghdad",
+    "country": "Abbasid Caliphate",
+    "description": "A scholarly courtyard and book market lane near the House of Wisdom during Baghdad's Abbasid golden age.",
+    "clues": [
+      "Scholars, translators, and scribes point to the House of Wisdom",
+      "Astrolabes, parchment folios, and reed pens suggest Abbasid scientific culture",
+      "The 9th-century Baghdad setting places the scene in the reign of al-Ma'mun"
+    ]
+  },
+  {
+    "id": "26",
+    "panorama": "/panoramas/26.png",
+    "lat": 37.8796,
+    "lng": -4.7794,
+    "year": 975,
+    "city": "Cordoba",
+    "country": "Caliphate of Cordoba",
+    "description": "A market street near the Great Mosque and library quarter during the height of Umayyad Cordoba.",
+    "clues": [
+      "The Great Mosque arches identify Cordoba",
+      "Book sellers, scholars, and water channels point to a 10th-century Andalusi city",
+      "Umayyad architecture and prosperous market life suggest the Caliphate of Cordoba"
+    ]
+  },
+  {
+    "id": "27",
+    "panorama": "/panoramas/27.png",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "year": 794,
+    "city": "Heian-kyo",
+    "country": "Japan",
+    "description": "A newly laid avenue and construction edge during the founding of Japan's Heian capital.",
+    "clues": [
+      "Grid-planned avenues and palace construction identify the new capital of Heian-kyo",
+      "Court officials, ox carts, and early Heian clothing place the scene in late-8th-century Japan",
+      "The Kyoto basin landscape supports the founding date of 794"
+    ]
+  },
+  {
+    "id": "28",
+    "panorama": "/panoramas/28.png",
+    "lat": 16.7666,
+    "lng": -3.0026,
+    "year": 1325,
+    "city": "Timbuktu",
+    "country": "Mali Empire",
+    "description": "A sandy street and manuscript market near Sankore Madrasa during Timbuktu's Mali Empire scholarly era.",
+    "clues": [
+      "Earthen mosque architecture and manuscript scholars identify Timbuktu",
+      "Camel caravans, salt slabs, and gold traders point to Saharan trade",
+      "The post-pilgrimage Mali Empire setting suggests the era of Mansa Musa"
+    ]
+  },
+  {
+    "id": "29",
+    "panorama": "/panoramas/29.png",
+    "lat": 39.6542,
+    "lng": 66.9597,
+    "year": 1405,
+    "city": "Samarkand",
+    "country": "Timurid Empire",
+    "description": "A caravanserai entrance and bazaar lane near Registan during the reign of Timur.",
+    "clues": [
+      "Blue-tiled domes and madrasas identify Timurid Samarkand",
+      "Silk Road merchants, camels, and textiles point to a major Central Asian trade city",
+      "Timurid soldiers and early-15th-century construction narrow the scene to Timur's reign"
+    ]
+  },
+  {
+    "id": "30",
+    "panorama": "/panoramas/30.png",
+    "lat": 38.711,
+    "lng": -9.139,
+    "year": 1755,
+    "city": "Lisbon",
+    "country": "Portugal",
+    "description": "An ordinary Baixa street and shopfront in pre-Pombaline Lisbon shortly before the 1755 earthquake.",
+    "clues": [
+      "Pre-Pombaline streets and tiled facades identify old Lisbon",
+      "Sedan chairs, clergy, and river trade goods fit the mid-18th century",
+      "The undamaged Baixa setting places the scene just before the 1755 earthquake"
+    ]
+  },
+  {
+    "id": "31",
+    "panorama": "/panoramas/31.png",
+    "lat": 42.3549,
+    "lng": -71.0496,
+    "year": 1773,
+    "city": "Boston",
+    "country": "British America",
+    "description": "A waterfront lane near Griffin's Wharf before the Boston Tea Party.",
+    "clues": [
+      "Tea ships, warehouses, and Griffin's Wharf identify colonial Boston",
+      "Tea crates, broadsides, and Sons of Liberty sympathizers point to 1773",
+      "Cold harbor conditions and colonial clothing place the scene before the Boston Tea Party"
+    ]
+  },
+  {
+    "id": "32",
+    "panorama": "/panoramas/32.png",
+    "lat": 48.8584,
+    "lng": 2.2945,
+    "year": 1889,
+    "city": "Paris",
+    "country": "France",
+    "description": "A fairground service path and vendor row near the newly opened Eiffel Tower during the 1889 Exposition Universelle.",
+    "clues": [
+      "The newly completed Eiffel Tower identifies the 1889 Exposition Universelle",
+      "Temporary exhibition pavilions and Belle Epoque visitors narrow the event",
+      "Gas lamps, horse carriages, and fair posters place the scene in late-19th-century Paris"
+    ]
+  },
+  {
+    "id": "33",
+    "panorama": "/panoramas/33.png",
+    "lat": 59.9398,
+    "lng": 30.3146,
+    "year": 1917,
+    "city": "Petrograd",
+    "country": "Russia",
+    "description": "A street-side view near the Winter Palace during the October Revolution period in 1917.",
+    "clues": [
+      "The Winter Palace and Palace Square identify Petrograd",
+      "Workers, soldiers, red banners, and newspapers point to the Russian Revolution",
+      "Streetcars and early-20th-century clothing narrow the year to 1917"
+    ]
+  },
+  {
+    "id": "34",
+    "panorama": "/panoramas/34.png",
+    "lat": 54.36,
+    "lng": 18.65,
+    "year": 1980,
+    "city": "Gdansk",
+    "country": "Poland",
+    "description": "A shipyard gate and worker path near the Lenin Shipyard during the Solidarity strike.",
+    "clues": [
+      "Shipyard cranes and the Lenin Shipyard gate identify Gdansk",
+      "Workers, handmade banners, and gate tributes point to the Solidarity movement",
+      "Late-1970s Polish cars and clothing narrow the scene to 1980"
+    ]
+  },
+  {
+    "id": "35",
+    "panorama": "/panoramas/35.png",
+    "lat": 37.515,
+    "lng": 127.073,
+    "year": 1988,
+    "city": "Seoul",
+    "country": "South Korea",
+    "description": "A sidewalk and vendor row near Jamsil Olympic Stadium during the 1988 Summer Olympics.",
+    "clues": [
+      "Jamsil Olympic Stadium and event banners identify the Seoul Olympics",
+      "1980s buses, taxis, payphones, and volunteers narrow the year",
+      "Spectators with flags and street vendors place the scene during the 1988 Games"
+    ]
+  },
+  {
+    "id": "36",
+    "panorama": "/panoramas/36.png",
+    "lat": 29.8496,
+    "lng": 31.2543,
+    "year": -1250,
+    "city": "Memphis",
+    "country": "Ancient Egypt",
+    "description": "A Nile-side workshop and market lane in New Kingdom Memphis during the reign of Ramesses II.",
+    "clues": [
+      "Temple pylons, scribes, and Nile docks identify ancient Memphis",
+      "Ramesside statues or cartouches point to the reign of Ramesses II",
+      "Linen workers, potters, reed boats, and ox carts fit New Kingdom Egypt"
+    ]
+  },
+  {
+    "id": "37",
+    "panorama": "/panoramas/37.png",
+    "lat": 34.384,
+    "lng": 109.273,
+    "year": -210,
+    "city": "Xi'an",
+    "country": "Qin Dynasty",
+    "description": "A workshop and road edge near the imperial tomb works of Qin Shi Huang around 210 BCE.",
+    "clues": [
+      "Clay figure workshops and kilns point to the Terracotta Army",
+      "Qin soldiers, bronze tools, and rammed-earth roads identify the Qin dynasty",
+      "The distant tomb mound works place the scene near the burial complex of Qin Shi Huang"
+    ]
+  },
+  {
+    "id": "38",
+    "panorama": "/panoramas/38.png",
+    "lat": 44.4184,
+    "lng": 12.2035,
+    "year": 540,
+    "city": "Ravenna",
+    "country": "Ostrogothic Italy",
+    "description": "A late antique market street near San Vitale during the Byzantine reconquest period.",
+    "clues": [
+      "Brick basilica architecture and mosaic work identify Ravenna",
+      "Byzantine soldiers alongside Gothic and Roman civilians point to the reconquest period",
+      "Late Roman clothing and clergy place the scene in the 6th century"
+    ]
+  },
+  {
+    "id": "39",
+    "panorama": "/panoramas/39.png",
+    "lat": 45.438,
+    "lng": 12.3358,
+    "year": 1600,
+    "city": "Venice",
+    "country": "Republic of Venice",
+    "description": "A quayside stall and alley mouth near the Rialto market during Venice's late Renaissance commercial era.",
+    "clues": [
+      "The Rialto Bridge and Grand Canal identify Venice",
+      "Spice merchants, printers, glassware, and cargo boats point to a maritime trading republic",
+      "Late Renaissance clothing and market life place the scene around 1600"
+    ]
+  },
+  {
+    "id": "40",
+    "panorama": "/panoramas/40.png",
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "year": 1637,
+    "city": "Amsterdam",
+    "country": "Dutch Republic",
+    "description": "A canal-side flower and merchant market during the speculative peak of tulip mania.",
+    "clues": [
+      "Tulip bulb traders, ledgers, and scales point to tulip mania",
+      "Canal houses and barges identify Amsterdam",
+      "Dutch Golden Age clothing and guild signs narrow the scene to the 1630s"
+    ]
+  },
+  {
+    "id": "41",
+    "panorama": "/panoramas/41.png",
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "year": 1886,
+    "city": "Johannesburg",
+    "country": "South African Republic",
+    "description": "A dusty claim street and supply tent during the Witwatersrand gold rush.",
+    "clues": [
+      "Prospectors, assay tents, and mining tools identify the Witwatersrand gold rush",
+      "Canvas tents and timber shacks show Johannesburg as a new boomtown",
+      "Ox wagons and late-19th-century clothing place the scene in 1886"
+    ]
+  },
+  {
+    "id": "42",
+    "panorama": "/panoramas/42.png",
+    "lat": 23.1367,
+    "lng": -82.3589,
+    "year": 1898,
+    "city": "Havana",
+    "country": "Cuba",
+    "description": "A waterfront street and dock near Havana Harbor during the Spanish-American War period after the USS Maine incident.",
+    "clues": [
+      "Havana Harbor and Spanish colonial buildings identify the city",
+      "Sailors, military uniforms, and newspaper sellers point to the Spanish-American War period",
+      "Steamships, horse trams, and late-1890s clothing narrow the year to 1898"
+    ]
+  },
+  {
+    "id": "43",
+    "panorama": "/panoramas/43.png",
+    "lat": 1.2897,
+    "lng": 103.8515,
+    "year": 1965,
+    "city": "Singapore",
+    "country": "Singapore",
+    "description": "A street near City Hall and the Padang shortly after Singapore's independence in 1965.",
+    "clues": [
+      "City Hall and the Padang identify central Singapore",
+      "Early independence flags and civic posters point to 1965",
+      "1960s buses, taxis, shophouses, and hawkers narrow the period"
+    ]
+  }
+]

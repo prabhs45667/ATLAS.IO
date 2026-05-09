@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx next:*)",
+      "Bash(./node_modules/.bin/next build:*)",
+      "Bash(timeout 10 ./node_modules/.bin/next dev)",
+      "Bash(pnpm dev:*)",
+      "Bash(pnpm add:*)"
+    ]
+  }
+}
