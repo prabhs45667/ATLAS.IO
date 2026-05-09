@@ -42,14 +42,12 @@ export const metadata: Metadata = {
     type: 'website',
     siteName: 'Atlas.io',
     url: 'https://atlas-io.vercel.app',
-    images: [{ url: '/og.png', width: 1200, height: 630, alt: 'Atlas.io — GeoGuessr but for different time periods' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Atlas.io — GeoGuessr but for Different Time Periods',
     description:
       'Explore 360° panoramas of iconic moments in history. Guess the location and time period. Play solo, lightning, or multiplayer.',
-    images: ['/og.png'],
   },
   robots: {
     index: true,
